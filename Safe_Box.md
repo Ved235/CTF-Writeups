@@ -1,4 +1,4 @@
-# Safe Box
+# Safe Box (VishwaCTF 2025)
 
 The main idea was to somehow either "open" the safe or breakthrough it to get the flag.
 
