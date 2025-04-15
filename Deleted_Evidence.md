@@ -132,7 +132,7 @@ The generator creates a file called `flag.txt`.
 
 The final step is to combine the generated flag with the creation timestamp of `seed_89.txt` (recorded in Step 5), formatted as `YYYY-MM-DD_Hr:Min:Sec`.
 
-- **Generated Flag:** `texsaw{0f59ede3e09e5a4d18b480be9e56f3c2aa1ed0b67287f0bc60ca0b2bce62ac28}` (Use actual output)  
+- **Generated Flag:** `texsaw{0f59ede3e09e5a4d18b480be9e56f3c2aa1ed0b67287f0bc60ca0b2bce62ac28}`
 - **Seed Creation Timestamp (MFT):** `2025-03-26 02:08:23 UTC`  
 - **Formatted Timestamp:** `2025-03-26_02:08:23`
 
