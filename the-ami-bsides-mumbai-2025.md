@@ -33,7 +33,7 @@ aws ec2 run-instances --image-id ami-07cc411e2ef775215 \
 --instance-type t2.micro --region us-west-1
 ```
 
-By default, RDP is not allowed to we first have to allow that on this machine, it can be easily done by running the following command:
+By default, RDP is not allowed so we first have to allow that on this machine, it can be easily done by running the following command:
 
 ```bash
 aws ec2 authorize-security-group-ingress \

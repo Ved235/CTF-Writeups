@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Muddy Water (SwampCTF 2025)](README.md)
-* [Safe Box (VishwaCTF 2025)](safe_box.md)
+* [Safe Box (VishwaCTF 2025)](Safe_Box.md)
 * [Escalate (squ1rrel CTF 2025)](escalate-squ1rrel-ctf-2025.md)
 * [Deleted Evidence (TexSaw 2025)](deleted-evidence-texsaw-2025.md)
 * [ASK Me Again (dawgCTF 2025)](ask-me-again-dawgctf-2025.md)
