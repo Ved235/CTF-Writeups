@@ -6,4 +6,5 @@
 * [Deleted Evidence (TexSaw 2025)](deleted-evidence-texsaw-2025.md)
 * [ASK Me Again (dawgCTF 2025)](ask-me-again-dawgctf-2025.md)
 * [Selfie Memory (N0PSctf 2025)](selfie-memory-n0psctf-2025.md)
-* [THE AMI (BSides Mumbai 2025)](the-ami-bsides-mumbai-2025.md)
+* [The AMI (BSides Mumbai 2025)](the-ami-bsides-mumbai-2025.md)
+* [Page 1](page-1.md)
