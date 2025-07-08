@@ -87,7 +87,7 @@ vol -f firefoxchall windows.info
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-On a windows machine we know that user data of Firefox would be stored in `\AppData\Roaming\Mozilla\Firefox\Profiles\` . We use the followin  command to find it:
+On a windows machine we know that user data of Firefox would be stored in `\AppData\Roaming\Mozilla\Firefox\Profiles\` . We use the following  command to find it:
 
 ```bash
 vol -f firefoxchall windows.filescan | grep -i "firefox"
