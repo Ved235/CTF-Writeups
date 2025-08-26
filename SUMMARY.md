@@ -8,3 +8,4 @@
 * [Selfie Memory (N0PSctf 2025)](selfie-memory-n0psctf-2025.md)
 * [The AMI (BSides Mumbai 2025)](the-ami-bsides-mumbai-2025.md)
 * [Blitz CTF 2025 (Official Writeups)](blitz-ctf-2025-official-writeups.md)
+* [Jailpy3 & Kaizo Brackeys (LITCTF 2025)](jailpy3-and-kaizo-brackeys-litctf-2025.md)
