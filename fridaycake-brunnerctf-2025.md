@@ -66,7 +66,7 @@ Java.perform(function () {
   // Add a small timeout to allow everything to load
   setTimeout(function () {
     const NC = Java.use('dk.brunnerctf.fridaycake.NativeChecker');
-    // 1) Trigger the native decrypt+store, any input string is fine
+    // 1) Trigger the native decrypt+store, supply any input
     NC.INSTANCE.value.verifyCode("x");
     // 2) Read the flag from the global
     const flag = NC.INSTANCE.value.getDecryptedFlag();
@@ -75,9 +75,8 @@ Java.perform(function () {
 });
 ```
 
-Open the app on your android emulator with frida setup and then run the script with the command:
+Open the app on your android emulator with frida setup and then run the script with the command `frida -U -l hook.js -n FridayCake` and from this we get our flag:
 
 ```bash
-frida -U -l hook.js -n FridayCake
+FLAG: brunner{Y0u_Us3d_Fr1d4_F0r_Gr4bb1ng_Th1s_R1ght?}
 ```
-
