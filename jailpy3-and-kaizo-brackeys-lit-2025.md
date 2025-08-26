@@ -1,8 +1,6 @@
-# Jailpy3 & Kaizo Brackeys (LIT 2025)
+# Jailpy3 (LIT 2025)
 
 I usually don't solve rev challenges (games are an exception) but I have no idea why a python jail was also put into the rev category...
-
-## Jailpy3
 
 > Made with a burning passion for pyjails (i.e. creating insane payloads just to bypass some random condition), I turned everything in this python script into pyjail tech! Here's a program that's suppose to print a flag. But something seems to be getting in the way...
 
