@@ -10,3 +10,4 @@
 * [Blitz CTF 2025 (Official Writeups)](blitz-ctf-2025-official-writeups.md)
 * [Jailpy3 (LIT 2025)](jailpy3-and-kaizo-brackeys-lit-2025.md)
 * [FridayCake (BrunnerCTF 2025)](fridaycake-brunnerctf-2025.md)
+* [craccon CTF 2025](craccon-ctf-2025.md)

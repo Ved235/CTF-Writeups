@@ -85,7 +85,7 @@ Let's start by analysing the memory dump that we have, it can be easily done usi
 vol -f firefoxchall windows.info
 ```
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 On a windows machine we know that user data of Firefox would be stored in `\AppData\Roaming\Mozilla\Firefox\Profiles\` . We use the following  command to find it:
 
