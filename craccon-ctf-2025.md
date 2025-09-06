@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # craccon CTF 2025
 
 Brief descriptions and short writeups for the challenges I solved in craccon-ctf 2025.
