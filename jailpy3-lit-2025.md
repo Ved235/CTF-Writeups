@@ -4,7 +4,7 @@ I usually don't solve rev challenges (games are an exception) but I have no idea
 
 > Made with a burning passion for pyjails (i.e. creating insane payloads just to bypass some random condition), I turned everything in this python script into pyjail tech! Here's a program that's suppose to print a flag. But something seems to be getting in the way...
 
-We were provided with a **11.5MB** python file... calling this a jail challenge would be wrong instead it is just obfuscated python code.&#x20;
+We were provided with a **11.5MB** python file... calling this a jail challenge would be wrong instead it is just obfuscated python code.
 
 {% code overflow="wrap" fullWidth="false" %}
 ```python
@@ -13,7 +13,7 @@ print({}.__class__.__subclasses__()[2].copy.__builtins__[{}.__class__.__subclass
 ```
 {% endcode %}
 
-Seeing this code the first thing that we should do is replace `chr(...)` with the actual contents. The `^` operator represents a **XOR** operation (it is not exponent). So I asked **ChatGPT** to quickly write a script for me which performs these operations and hopefuly deobfuscates this.&#x20;
+Seeing this code the first thing that we should do is replace `chr(...)` with the actual contents. The `^` operator represents a **XOR** operation (it is not exponent). So I asked **ChatGPT** to quickly write a script for me which performs these operations and hopefuly deobfuscates this.
 
 ```python
 import ast
@@ -349,4 +349,4 @@ print('LITCTF{h0w_c0nvolu7ed_c4n_i7_g'__builtins__['__import__']('types').Functi
 ```
 {% endcode %}
 
-The challenge did look hard at start, probably I got scared because of the large file size, but by making two simple observations and using any LLM to write the scripts the challenge was easy solvable.&#x20;
+The challenge did look hard at start, probably I got scared because of the large file size, but by making two simple observations and using any LLM to write the scripts the challenge was easy solvable.
