@@ -11,3 +11,4 @@
 * [FridayCake (BrunnerCTF 2025)](fridaycake-brunnerctf-2025.md)
 * [craccon CTF 2025](craccon-ctf-2025.md)
 * [Jailpy3 (LIT 2025)](jailpy3-lit-2025.md)
+* [The Weather Oracle (07CTF 2025)](the-weather-oracle-07ctf-2025.md)
