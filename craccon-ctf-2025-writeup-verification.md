@@ -1,8 +1,4 @@
----
-hidden: true
----
-
-# craccon CTF 2025
+# craccon CTF 2025 (Writeup Verification)
 
 Brief descriptions and short writeups for the challenges I solved in craccon-ctf 2025.
 
