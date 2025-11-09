@@ -9,6 +9,6 @@
 * [The AMI (BSides Mumbai 2025)](the-ami-bsides-mumbai-2025.md)
 * [Blitz CTF 2025 (Official Writeups)](blitz-ctf-2025-official-writeups.md)
 * [FridayCake (BrunnerCTF 2025)](fridaycake-brunnerctf-2025.md)
-* [craccon CTF 2025 (Writeup Verification)](craccon-ctf-2025-writeup-verification.md)
+* [craccon CTF 2025 (Short Writeups)](craccon-ctf-2025-short-writeups.md)
 * [Jailpy3 (LIT 2025)](jailpy3-lit-2025.md)
 * [The Weather Oracle (07CTF 2025)](the-weather-oracle-07ctf-2025.md)
