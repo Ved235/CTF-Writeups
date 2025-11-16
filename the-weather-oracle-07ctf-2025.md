@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # The Weather Oracle (07CTF 2025)
 
 > The year is 20XX. Meteorological agencies worldwide receive an anonymous file, containing disturbing weather data. A cataclysmic storm is forming on an unprecedented scale. Forecast models show an impossible convergence of hurricanes, tornadoes, and heat waves all in a single location. But something doesn’t add up. A rogue scientist, now missing, left a hidden message within the data. He claimed that this "perfect storm" is not natural. Before vanishing, he uncovered a classified climate manipulation project. The only clue he managed to transmit is buried within this file. We need you to undisclose what was hidden.

@@ -12,3 +12,4 @@
 * [craccon CTF 2025 (Short Writeups)](craccon-ctf-2025-short-writeups.md)
 * [Jailpy3 (LIT 2025)](jailpy3-lit-2025.md)
 * [The Weather Oracle (07CTF 2025)](the-weather-oracle-07ctf-2025.md)
+* [The Fall of the Great Wall (PwnSec)](the-fall-of-the-great-wall-pwnsec.md)
